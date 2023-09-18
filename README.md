@@ -1,8 +1,10 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20GitHub!&descSize=15&descAlign=53.5&descAlignY=65)
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangYunseo%2Fhit-counter&count_bg=%234A444D&title_bg=%234ED547&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits+%21&edge_flat=true"/></a>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangYunseo&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%23E7E7E7&title=hits%21&edge_flat=false)](https://github.com/BangYunseo)
  <br/>
  <br/>
  
