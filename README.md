@@ -17,12 +17,14 @@
  💛**한국어**💛 <br/><br/>
 안녕하세요👋, 제 이름은 방윤서입니다.<br/>
 제 GitHub에 와주셔서 감사합니다! <br/>
- 현재 대학교에 재학중이며, 게임 클라이언트 개발자가 되는 것이 제 꿈입니다.
+ 현재 대학교에 재학중이며, 게임 클라이언트 개발자를 꿈꾸고 있습니다.
  <br/> <br/> <br/>
 
 📫**Contact**📫 <br/><br/>
-<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> : **yunseo_33** <br/>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> : **yunseobang33@gmail.com** <br/>
+<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <br/>
+: **yunseo_33** <br/> <br/>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br/>
+: **yunseobang33@gmail.com** <br/>
  <br/> <br/> <br/>
 
 🛠**Tech Stack**🛠<br/><br/>
