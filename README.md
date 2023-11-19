@@ -40,8 +40,3 @@ My dream is to become a developer.
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)<br/>
 
 </div>
-
-
-  - 🔭 I’m currently working on C, Python, Unity.   
-  - 🌱 I’m currently learning Unity, C#, Java, C++.   
-
