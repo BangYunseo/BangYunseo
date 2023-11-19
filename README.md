@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20github!&descSize=15&descAlign=53.5&descAlignY=65)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)
-
  💙**English**💙  <br/><br/>
 Hello👋, My name is Yunseo Bang.<br/>
 Thank you for visiting my GitHub! <br/>
@@ -14,6 +12,8 @@ My dream is to become a developer.
 안녕하세요👋, 제 이름은 방윤서입니다.<br/>
 제 GitHub에 와주셔서 감사합니다! <br/>
 개발자를 꿈꾸는 대학생입니다. <br/> <br/> <br/>
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)
 
 📫**Contact**📫 <br/><br/>
 <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <br/>
