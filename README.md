@@ -2,13 +2,13 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20github!&descSize=15&descAlign=53.5&descAlignY=65)
 
-💙**English**💙  <br/><br/>
+💙**English**💙<br/><br/>
 Hello👋, My name is Yunseo Bang.<br/>
 Thank you for visiting my GitHub! <br/>
 My dream is to become a developer.
- <br/> <br/> <br/>
- 
- 💛**한국어**💛 <br/><br/>
+<br/> <br/> <br/>
+
+💛**한국어**💛<br/><br/>
 안녕하세요👋, 제 이름은 방윤서입니다.<br/>
 제 GitHub에 와주셔서 감사합니다! <br/>
 개발자를 꿈꾸는 대학생입니다. <br/> <br/> <br/>
