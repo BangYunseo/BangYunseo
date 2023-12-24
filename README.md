@@ -36,6 +36,6 @@ My dream is to become a developer.
 
 
 [![Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangYunseo&show_icons=true&theme=synthwave)](https://github.com/BangYunseo/github-readme-stats)<br/>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)<br/>
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)<br/>
 </div>
