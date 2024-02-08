@@ -14,8 +14,6 @@ My dream is to become a developer.
 개발자를 꿈꾸는 대학생입니다. <br/> <br/> <br/>
 
 📫**Contact**📫 <br/><br/>
-<a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <br/>
-: **yunseo_33** <br/> <br/>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br/>
 : **yunseobang33@gmail.com** <br/>
  <br/> <br/> <br/>
