@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20github!&descSize=15&descAlign=53.5&descAlignY=65)
@@ -20,7 +21,10 @@ My dream is to become a developer.
 <br><br>
 <a href="https://mail.google.com/" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
-<strong>yunseobang33@gmail.com</strong><br>
+<strong>yunseobang33@gmail.com</strong><br><br>
+<a href="https://www.notion.so/Game-Client-cdb58bfb75f348dc821b020ab7d99f97" target="_blank">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
+<strong>BangYunseo</strong><br>
 <br><br><br><br>
 
 <strong>🛠Tech Stack🛠</strong>
