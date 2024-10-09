@@ -7,14 +7,14 @@
 <br><br>
 Hello👋, My name is Yunseo Bang.<br>
 Thank you for visiting my GitHub!<br>
-My dream is to become a Game Client developer.
+My dream is to become a Game Client developer. ><
 <br><br><br><br>
 
 <strong>💛한국어💛</strong>
 <br><br>
 안녕하세요👋, 제 이름은 방윤서입니다.<br>
 제 GitHub에 와주셔서 감사합니다!<br>
-개발자를 꿈꾸는 대학생입니다.
+게임 클라이언트 개발자를 꿈꾸는 대학생입니다. ><
 <br><br><br><br>
 
 <strong>📫Contact📫</strong>
