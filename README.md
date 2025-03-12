@@ -7,7 +7,7 @@
 <br><br>
 Hello👋, My name is Yunseo Bang.<br>
 Thank you for visiting my GitHub!<br>
-My dream is to become a GOOD developer.
+My dream is to become a <strong>GOOD</strong> developer.
 <br><br><br><br>
 
 <strong>💛한국어💛</strong>
