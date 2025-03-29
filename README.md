@@ -17,7 +17,6 @@ My dream is <strong>to immerse</strong> myself in development.
 개발에 <strong>몰입</strong>하고 싶은 프로그래머입니다.
 <br><br><br><br>
 
-
 <strong><a href = "https://www.youtube.com/watch?v=mXpLHdYhMKA">Would you like to code in a comfortable environment?</strong>
 <br><br><br>
 
@@ -33,9 +32,14 @@ My dream is <strong>to immerse</strong> myself in development.
 
 <strong>🛠Tech Stack🛠</strong>
 <br><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=C&logoColor=white&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white&color=purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black&color=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black&color=red">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white&color=blue">
+
 <br><br>
 
 
