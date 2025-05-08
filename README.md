@@ -14,7 +14,7 @@ My dream is <strong>to immerse</strong> myself in development.
 <br><br>
 안녕하세요👋, 제 이름은 방윤서입니다.<br>
 제 GitHub에 와주셔서 감사합니다!<br>
-개발에 <strong>몰입</strong>하고 싶은 프로그래머입니다.
+개발에 <strong>몰입</strong>하고 싶은 개발자입니다.
 <br><br><br><br>
 
 <strong><a href = "https://www.youtube.com/watch?v=mXpLHdYhMKA">Would you like to code in a comfortable environment?</strong>
