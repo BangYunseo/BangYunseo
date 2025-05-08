@@ -17,7 +17,7 @@ My dream is <strong>to immerse</strong> myself in development.
 개발에 <strong>몰입</strong>하고 싶은 개발자입니다.
 <br><br><br><br>
 
-<strong><a href = "https://www.youtube.com/watch?v=mXpLHdYhMKA">Would you like to code in a comfortable environment?</strong>
+<strong><a href = "https://www.youtube.com/watch?v=Pv7iTc2W1yM">Would you like to code in a comfortable environment?</strong>
 <br><br><br>
 
 <strong>📫Contact📫</strong>
