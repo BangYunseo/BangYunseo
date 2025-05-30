@@ -27,6 +27,7 @@ My dream is <strong>to immerse</strong> myself in development.
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 <strong>BangYunseo</strong><br>
 <br><br><br><br>
+
 <strong>🛠Tech Stack🛠</strong>
 <br><br>
 ![C Language](https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=C&logoColor=white&color=black)
