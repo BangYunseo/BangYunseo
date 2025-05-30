@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<div align="center">
+<html lang="kr">
+<div style="text-align: center;">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20github!&descSize=15&descAlign=53.5&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&animation=fadeIn&text=Hello&fontSize=90&fontColor=000000&desc=Welcome%20to%20Yunseo's%20github!&descSize=15&descAlign=53.5&descAlignY=65" alt="header">
 
 <strong>💙English💙</strong>
 <br><br>
@@ -41,9 +42,7 @@ My dream is <strong>to immerse</strong> myself in development.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black&color=red)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white&color=blue)
 
-
 <br><br>
-
 
 <strong>⚒Tool⚒</strong>
 <br><br>
@@ -54,10 +53,10 @@ My dream is <strong>to immerse</strong> myself in development.
 
 <br><br>
 
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BangYunseo&show_icons=true&theme=synthwave)](https://github.com/BangYunseo)
 <br>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=bysgood0215)](https://solved.ac/bysgood0215)
 <br>
+
 </div>
