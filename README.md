@@ -22,7 +22,7 @@ My dream is <strong>to immerse</strong> myself in development.
 <br><br>
 <a href="https://mail.google.com/" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
-<strong>yunseobang33@gmail.com</strong><br><br>
+<strong>ysbang.dev@gmail.com</strong><br><br>
 <a href="https://www.notion.so/Game-Client-cdb58bfb75f348dc821b020ab7d99f97" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 <strong>BangYunseo</strong><br>
