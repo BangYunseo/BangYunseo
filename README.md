@@ -30,7 +30,7 @@ My dream is <strong>to immerse</strong> myself in development.
 
 <strong>🛠Tech Stack🛠</strong>
 <br><br>
-![C Language](https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=C&logoColor=white&color=black)
+![C](https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=C&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white&color=purple)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black&color=orange)
